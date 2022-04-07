@@ -13,12 +13,3 @@ target = 10
 print(two_number_sum(numbers, target))
 
 
-# version 2
-# try:
-#     
-# not all numbers
-# except Exception:
-#     
-# else:
-#
-# finally:
